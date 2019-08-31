@@ -1,0 +1,10 @@
+### macOS ###
+# General
+.DS_Store
+
+### Linux ###
+*~
+
+### Intellij IDEA ###
+# Ignores the whole .idea folder and all .iml files
+.idea/
